@@ -1,2 +1,2 @@
-# bale_bot
-A simple class for create bale bot
+# Bale Bot
+A simple code for create bale bot
